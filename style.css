@@ -1,0 +1,6 @@
+html, body		{ color: rgb(195, 195, 200); width: 100%; height: 100%; margin: 0px; }
+#canvas			{ position: absolute; }
+a				{ color: rgb(195, 195, 200); opacity: 1; -webkit-transition: opacity 0.3s linear; -moz-transition: opacity 0.3s linear; }
+a:hover			{ opacity: 0.65; }
+#emily-fuhrman	{ z-index: 1; position: absolute; bottom: 70px; left: 36px; }
+#title			{ z-index: 2; position: absolute; bottom: 30px; left: 36px; font-family:'Arial', sans-serif; font-weight: normal; font-size: 8px; line-height: 1.5em; }
